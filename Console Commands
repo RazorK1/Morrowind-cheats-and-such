@@ -12,3 +12,10 @@ player->additem "Misc_SoulGem_Azura" 1
 
 Gold:
 player->AddItem "Gold_001" 12345
+
+
+
+
+
+NINJA
+player->setspeed 4000
