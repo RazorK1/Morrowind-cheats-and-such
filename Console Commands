@@ -1,3 +1,4 @@
+SecretMaster Alchemy set console command:
 player->AddItem "apparatus_sm_mortar_01" 1
 
 player->AddItem "apparatus_sm_alembic_01" 1
@@ -5,3 +6,6 @@ player->AddItem "apparatus_sm_alembic_01" 1
 player->AddItem "apparatus_sm_calcinator_01" 1
 
 player->AddItem "apparatus_sm_retort_01" 1
+
+Azura's star:
+player->additem "Misc_SoulGem_Azura" 1
