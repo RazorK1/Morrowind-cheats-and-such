@@ -9,3 +9,6 @@ player->AddItem "apparatus_sm_retort_01" 1
 
 Azura's star:
 player->additem "Misc_SoulGem_Azura" 1
+
+Gold:
+player->AddItem "Gold_001" 12345
